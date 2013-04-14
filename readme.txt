@@ -1,0 +1,1 @@
+This project is a test of how to use a GitHub,if you see this text,Congratulation,you can exit!!
